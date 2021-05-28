@@ -1,3 +1,2 @@
 
-
-console.log('welcome to AI')
+console.log("welcome");
